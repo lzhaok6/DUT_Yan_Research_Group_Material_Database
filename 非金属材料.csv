@@ -1,0 +1,13 @@
+﻿参数,UPE 超高分子量聚乙烯
+密度 density (kg/m^3),950
+密度随压力和温度的变化 density variation with pressure and temperature,
+比热 specific heat Cp (j/kg-k),1800 (https://dielectricmfg.com/knowledge-base/uhmw/)
+热传导系数 thermal conductivity (w/m-k),16 (https://www.google.com/search?q=%22UHMW+PE%22+%22thermal+conductivity%22&client=safari&rls=en&sxsrf=ALiCzsbteW1ghQv-xzqUfW3pw-5fcetLMw%3A1671678736764&ei=EMujY62TLoSC-AbAx5XwDQ&ved=0ahUKEwit26HKoIz8AhUEAd4KHcBjBd4Q4dUDCA4&uact=5&oq=%22UHMW+PE%22+%22thermal+conductivity%22&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIECCMQJzIHCAAQgAQQDToGCAAQHhANSgQIQRgBSgQIRhgAUMkJWJdJYIZLaAFwAHgAgAGlA4gB4gqSAQkwLjYuMS4wLjGYAQCgAQHAAQE&sclient=gws-wiz-serp)
+动力粘度 dynamic viscosity (kg/m-s=Pa s),
+分子量 molecular weight (kg/kmol),
+参考温度 reference temperature (c),
+沸点 boiling point/saturation temperature (degree),
+表面张力系数 surface tension (N/m),
+临界温度 critical temperature (ºC),
+潜热 latent heat of vaporization (J/kgmol),
+标准状态焓 standard state enthalpy (j/kmol),
