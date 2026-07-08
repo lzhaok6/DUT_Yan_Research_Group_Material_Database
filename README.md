@@ -1,10 +1,11 @@
-# DUT Yan Research Group Material Database
+# DUT Yan 课题组材料参数库
 
-This repository stores material properties used by DUT Yan Research Group.
+这个仓库用于保存 DUT Yan 课题组常用的流体、金属、绝热材料等材料参数。
 
-Each material or dataset can be saved directly as a CSV table. GitHub is used to track who changed the data, when it changed, and what rows were changed.
+每一种材料或每一类数据可以直接保存为一个 CSV 表格。GitHub 用来记录谁改了数据、什么时候改的、具体改了哪些行。
 
-## Current Tables
+## 当前表格
 
-- `LNG_material_properties.csv`: LNG, LNG vapor (BOG), and UPE material parameters.
-- `Stainless_steel_material_properties.csv`: links to NIST cryogenic database entries for 304 and 316 stainless steel.
+- `LNG_材料参数.csv`：LNG、LNG vapor (BOG) 和 UPE 超高分子量聚乙烯材料参数。
+- `不锈钢_304_316_NIST数据库链接.csv`：304 和 316 不锈钢在 NIST 低温材料数据库中的入口链接。
+
