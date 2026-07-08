@@ -1,4 +1,4 @@
-﻿,LNG,LNG vapor (BOG),UPE 超高分子量聚乙烯
+﻿Property,LNG,LNG vapor (BOG),UPE 超高分子量聚乙烯
 密度 density (kg/m^3),414 (﻿[1] NOAA. Liquefied natural gas. 1999. https://doi.org/10.22214/ijraset.2018.1214.),2.06 (﻿[1] NOAA. Liquefied natural gas. 1999. https://doi.org/10.22214/ijraset.2018.1214.),950
 密度随压力和温度的变化 density variation with pressure and temperature,incompressible,"﻿Benedict– Webb–Rubin (B–W–R) 状态方程 (﻿Chen, Q., Wegrzyn, J., 2004. Analysis of temperature and pressure changes in liquefied natural gas ( LNG ) cryogenic tanks 44, 701–709. https://doi.org/10.1016/j.cryogenics.2004.03.020)",
 比热 specific heat Cp (j/kg-k),0.839*4186.8=3.5127e+03 (B4 NOAA. Liquefied natural gas. 1999. https://doi.org/10.22214/ijraset.2018.1214.),2340 (https://www.engineeringtoolbox.com/specific-heat-capacity-gases-d_159.html),1800 (https://dielectricmfg.com/knowledge-base/uhmw/)
