@@ -1,0 +1,3 @@
+Material,NIST database entry,Source URL,Notes
+304 Stainless Steel,cryogenic material properties 304 Stainless,https://trc.nist.gov/cryogenics/materials/304Stainless/304Stainless_rev.htm,Use NIST cryogenic material properties database directly for 304 stainless steel data.
+316 Stainless Steel,cryogenic material properties 316 Stainless,https://trc.nist.gov/cryogenics/materials/316Stainless/316Stainless_rev.htm,Use NIST cryogenic material properties database directly for 316 stainless steel data.
