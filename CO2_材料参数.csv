@@ -1,0 +1,2 @@
+材料名称,材料类型,参数获取方式,CoolProp流体名称,软件/数据库,官方链接,CO2页面链接,备注
+CO2 二氧化碳,流体,直接使用 CoolProp 软件计算,CarbonDioxide,CoolProp,https://coolprop.org/,https://coolprop.org/fluid_properties/fluids/CarbonDioxide.html,建模时不在本表手动维护密度、比热、黏度、热导率等数值；根据温度、压力等工况直接调用 CoolProp 计算。
